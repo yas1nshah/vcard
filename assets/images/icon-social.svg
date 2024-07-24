@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="1.92667" y1="0" x2="19.7024" y2="29.0178" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+  <g id="SVGRepo_iconCarrier">
+    <path d="M10 4L7 20M17 4L14 20M5 8H20M4 16H19" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="round"></path>
+  </g>
+</svg>
